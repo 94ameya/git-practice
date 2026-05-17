@@ -1,1 +1,3 @@
 Hello from the Alpha Branch!
+
+Git is awesome.
